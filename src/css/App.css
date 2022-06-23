@@ -1,0 +1,14 @@
+.main-container{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+      height: 100vh;
+}
+.main-content{
+    width: 30%;
+    padding: 1em;
+}
+.btn-like-del{
+
+    width: 5em;
+}
